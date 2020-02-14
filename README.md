@@ -8,6 +8,7 @@
 * [algorithm](#algorithm)
 * [concurrent](#concurrent)
 * [proformance](#proformance)
+* [cloud](#cloud)
 
 <a name="dkv"> </a>
 
@@ -41,5 +42,10 @@
 <a name="proformance"> </a>
 
 ## proformance
+
+<a name="cloud"> </a>
+
+# [cloud](/cloud/README.md)
+
 
 
