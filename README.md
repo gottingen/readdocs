@@ -21,12 +21,13 @@
 
 ## distribute system
 
+* [distribute system](/distribute-system/README.md)
+
 <a name="cpp"> </a>
 
 ## program language
 
-* c/c++
-* go
+[language](/language/README.md)
 
 <a name="rpc"> </a>
 
@@ -38,17 +39,25 @@
 
 ## algorithm
 
+* [algorithm](/algorithm/README.md)
+
 <a name="concurrent"> </a>
 
-## [concurrent](/concurrent/README.md)
+## concurrent
+
+* [concurrent](/concurrent/README.md)
 
 <a name="proformance"> </a>
 
-## proformance
+## performance
+
+* [performance](/performance/README.md)
 
 <a name="cloud"> </a>
 
-# [cloud](/cloud/README.md)
+## cloud
+
+* [cloud](/cloud/README.md)
 
 * [docker action](/cloud/Docker-inaction.pdf)
 
