@@ -9,6 +9,7 @@
 * [concurrent](#concurrent)
 * [proformance](#proformance)
 * [cloud](#cloud)
+* [ops](#ops)
 
 <a name="dkv"> </a>
 
@@ -60,5 +61,11 @@
 * [cloud](/cloud/README.md)
 
 * [docker action](/cloud/Docker-inaction.pdf)
+
+<a name="ops"> </a>
+
+## ops
+
+* [ops](/ops/README.md)
 
 
