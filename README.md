@@ -14,7 +14,7 @@
 
 ## distribute key value storage
 
-* scylla
+* [scylla](/scylla/docs/compile.md)
 
 <a name="dfs"> </a>
 
