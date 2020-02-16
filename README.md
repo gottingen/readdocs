@@ -32,6 +32,8 @@
 
 ## rpc
 
+[rpc](/rpc/README.md)
+
 <a name="algorithm"> </a>
 
 ## algorithm
