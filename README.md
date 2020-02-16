@@ -15,6 +15,7 @@
 ## distribute key value storage
 
 * [scylla](/scylla/docs/compile.md)
+* [cassandra](/cassandra/README.md)
 
 <a name="dfs"> </a>
 
