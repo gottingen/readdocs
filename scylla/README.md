@@ -5,7 +5,7 @@
  
 ## develop
 
-[compile](/scylla/docs/compile.md)
+[compile](/scylla/docs/develop/README.md)
 
 ## ops
 
