@@ -1,5 +1,9 @@
 # scylla
 
+## introduction
+
+ [introduction](/scylla/docs/introduction.md)
+
 ## design
  [design](/scylla/docs/design/README.md)
  
