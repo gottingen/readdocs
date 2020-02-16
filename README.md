@@ -28,13 +28,13 @@
 
 ## program language
 
-[language](/language/README.md)
+* [language](/language/README.md)
 
 <a name="rpc"> </a>
 
 ## rpc
 
-[rpc](/rpc/README.md)
+* [rpc](/rpc/README.md)
 
 <a name="algorithm"> </a>
 
