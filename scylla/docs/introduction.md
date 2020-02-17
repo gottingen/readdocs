@@ -114,7 +114,7 @@ Scylla的面向Vnode的体系结构实现具有多个优点。首先，添加或
 Copyright
 
 © 2016, The Apache Software Foundation.
-
+@ 2020, gottingen lothar
 Apache®, Apache Cassandra®, Cassandra®, the Apache feather logo and the Apache Cassandra® Eye logo are either registered
  trademarks or trademarks of the Apache Software Foundation in the United States and/or other countries. No endorsement 
  by The Apache Software Foundation is implied by the use of these marks.
