@@ -185,7 +185,7 @@ ICS使用与STCS相同的原理，其中SSTables根据其大小在存储桶中�
     盘上，而SSTables包含它们表示墓碑可能会遮盖的数据。压缩完成后，从所有SSTable中删除所有阴影数据，然后清除可清除的逻辑删除并将保存它们
     的SSTable从存储中删除。
     
-## Time-window Compaction Strategy (TWCS)¶
+## Time-window Compaction Strategy (TWCS)
 
 引入了时间窗口压缩策略，以替代用于处理时间序列工作负载的日期分层压缩策略（DTCS）。时间窗口压缩策略使用大小分层压缩策略（STCS）在每个时间
 窗口内压缩SSTable。来自不同时间窗口的SSTable永远不会压缩在一起。
@@ -248,7 +248,7 @@ SSTable_size_in_mb为5MB。用户将此阈值更改为160MB。进行此更改之
 将被饿死，并且不会被压缩。为了避免这种情况，LCS尝试在以后的压缩中包括那些饥饿的高级SSTables。如果经过25次压实后未对某个级别进行压实，则将
 其带入下一次压实。
 
-## Changing to Time Window Compaction Strategy (TWCS)¶
+## Changing to Time Window Compaction Strategy (TWCS)
 
 
 如果要对现有数据启用TWCS，则可以考虑首先运行主要压缩，将所有现有数据放入一个（旧）窗口中。随后的后续写入操作将按预期创建典型的SSTables。
@@ -260,7 +260,7 @@ SSTable_size_in_mb为5MB。用户将此阈值更改为160MB。进行此更改之
 如果要更改时间窗口，可以这样做，但是请记住，由于相邻窗口连接在一起，此更改可能会触发其他压缩。如果窗口大小减小（例如，从24小时减少到12小时
 、），则不会修改现有的SSTables。还要注意，TWCS不能将现有的SSTables拆分为多个窗口。
 
-## Which Strategy is best to use¶
+## Which Strategy is best to use
 
 
 使用[Choose a Compaction Strategy](/scylla/docs/architecture/compaction-strategy.md)来确定适合您需求的策略。

@@ -2,4 +2,4 @@
 
 * [gossip](/scylla/docs/design/gossip.md)
 * [compaction](/scylla/docs/design/compaction.md)
-* [gossip](/scylla/docs/design/gossip.md)
+* [io](/scylla/docs/design/io.md)
