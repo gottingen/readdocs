@@ -10,6 +10,8 @@
 * [proformance](#proformance)
 * [cloud](#cloud)
 * [ops](#ops)
+* [read books](#books)
+* [blogs](#blogs)
 
 <a name="dkv"> </a>
 
@@ -67,5 +69,22 @@
 ## ops
 
 * [ops](/ops/README.md)
+
+<a name="books"> </a>
+
+## read books
+
+[read books](/read-bools/README.md)
+
+<a name="blogs"> </a>
+
+## blogs
+
+[blogs](/blogs/README.md)
+
+
+
+
+
 
 
