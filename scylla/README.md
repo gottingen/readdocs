@@ -1,7 +1,8 @@
 # scylla
 
 ## scylla
-   [scylla home](https://docs.scylladb.com)
+* [scylla home](https://docs.scylladb.com)
+* [scylla chninese](http://scylla.wildcat.io/zh/latest/#id9)
    
 ## introduction
 
