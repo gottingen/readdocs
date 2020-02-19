@@ -10,3 +10,8 @@
 ## rust
 
 * [rust](/language/rust/README.md)
+
+## resource
+
+1. [bogo](https://www.bogotobogo.com/index.php)
+
