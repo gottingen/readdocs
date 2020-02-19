@@ -20,3 +20,8 @@
 ## topics
  
 1. [tpoics](/scylla/docs/topics/README.md)
+
+# cql
+
+1. [cql](/scylla/docs/cql/README.md)
+
