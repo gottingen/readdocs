@@ -18,4 +18,17 @@
 * [Gossip in Scylla](/scylla/docs/design/gossip.md) - 与Cassandra一样，Scylla使用一种称为“gossip”的协议来交换有关集群中节点身份
 的元数据。幕后工作原理如下。
 
+* [Scylla consistency quiz for administrators](/scylla/docs/design/consistency-quiz.md) - 从管理员的角度，您对NoSQL有多少了解？
+
+* [Data model for a social reader application ](/scylla/docs/design/data-model.md) - 链接共享和推荐站点的简单数据模型
+
+* [Scylla Memory Usage ](/scylla/docs/design/memory-usage.md) - 简短说明Scylla如何管理内存
+
+* [Scylla Nodes are Unresponsive ](/scylla/docs/design/swap.md) - 如何处理Scylla中的交换
+
+* [CQL Query Does Not Display Entire Result Set ](/scylla/docs/design/cql-no-display.md) - 当CQL查询未显示整个结果集时该怎么办。
+
+* [Snapshots and Disk Utilization](/scylla/docs/design/disk-utilization.md) - 快照如何影响磁盘利用率
+
+* [Scylla Snapshots](/scylla/docs/design/snapshot.md) - Scylla快照是什么，它们的用途以及如何创建和删除它们。
 ## Configuring and Integrating Scylla
