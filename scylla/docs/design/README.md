@@ -32,3 +32,16 @@
 
 * [Scylla Snapshots](/scylla/docs/design/snapshot.md) - Scylla快照是什么，它们的用途以及如何创建和删除它们。
 ## Configuring and Integrating Scylla
+
+* [NTP configuration for Scylla](/scylla/docs/design/ntp-configure.md) - Scylla取决于准确的系统时钟。了解为数据存储和应用程序配置NTP。
+* [Scylla and Spark integration](/scylla/docs/design/spark-in.md) - 如何运行使用Scylla存储数据的示例Spark应用程序？
+* [Map CPUs to Scylla Shards ](/scylla/docs/design/map-cpu.md) - CPU和Scylla分片之间的映射重新创建RAID设备-如何在不运行scylla-setup的情况下重新创建RAID设备
+* [Configure Scylla Networking with Multiple NIC/IP Combinations](/scylla/docs/design/configure-networking.md) - 在scylla.yaml中设置不同IP地址的示例
+* [Kafka Sink Connector Quickstart](/scylla/docs/design/kafka-quick.md)
+* [Kafka Sink Connector Configuration](/scylla/docs/design/kafka-configure.md)
+
+## Analyzing Scylla
+
+* [Using the perf utility with Scylla](/scylla/docs/design/perf.md) - 使用perf分析Scylla
+* [Debug your database with Flame Graphs](/scylla/docs/design/flame.md) - 如何设置和运行火焰图
+* [Decoding Stack Traces](/scylla/docs/design/stack.md) - 如何在Scylla日志中解码堆栈跟踪
