@@ -21,7 +21,7 @@
 
     >In every synchronizes-with relationship, you should be able to identify two key ingredients, which I like to call **the guard variable** and **the payload**. The payload is the set of data being propagated between threads, while the guard variable protects access to the payload.
 
-    [synchronize-with](/language/cpp/images/memory-order/synchronize-with.png)
+    ![synchronize-with](/language/cpp/images/memory-order/synchronize-with.png)
 
     [refer-blog-2](https://preshing.com/20130823/the-synchronizes-with-relation/)
 
