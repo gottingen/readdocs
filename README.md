@@ -75,7 +75,7 @@
 
 ## read books
 
-[read books](/read-bools/README.md)
+[read books](/read-books/README.md)
 
 <a name="blogs"> </a>
 
