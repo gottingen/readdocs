@@ -12,6 +12,7 @@
 * [ops](#ops)
 * [read books](#books)
 * [blogs](#blogs)
+* [building system](#building)
 
 <a name="dkv"> </a>
 
@@ -81,6 +82,13 @@
 ## blogs
 
 [blogs](/blogs/README.md)
+
+
+<a name="building"> </a>
+
+## building system
+
+[building system](/building/README.md)
 
 
 
