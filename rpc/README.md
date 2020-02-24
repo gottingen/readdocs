@@ -8,6 +8,8 @@
 
 ## seastar
 
+[searstar](/rpc/seastar/README.md)
+
 ## muduo
 
 ## grpc
